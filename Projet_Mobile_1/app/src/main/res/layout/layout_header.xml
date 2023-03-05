@@ -29,7 +29,8 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentBottom="true"
             android:layout_marginLeft="20dp"
-            app:srcCompat="@drawable/icon_back" />
+            app:srcCompat="@drawable/icon_back"
+            app:tint="@color/white" />
     </RelativeLayout>
 
 </LinearLayout>
