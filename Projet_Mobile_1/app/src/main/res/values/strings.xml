@@ -5,5 +5,7 @@
     <string name="btn_text_products">Produits</string>
     <string name="main_title">EPSI</string>
 
+    <string name="title_activity_rayon">Rayon</string>
+
 
 </resources>
