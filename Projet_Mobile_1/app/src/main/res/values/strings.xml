@@ -6,6 +6,7 @@
     <string name="main_title">EPSI</string>
 
     <string name="title_activity_rayon">Rayon</string>
+    <string name="description">Description : </string>
 
 
 </resources>

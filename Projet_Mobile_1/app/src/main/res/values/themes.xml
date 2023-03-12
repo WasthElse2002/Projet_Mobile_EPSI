@@ -25,6 +25,7 @@
         <item name="android:textSize">16sp</item>
     </style>
 
+
     <style name="Theme.Projet_Mobile_1.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
