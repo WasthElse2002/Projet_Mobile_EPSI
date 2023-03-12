@@ -18,6 +18,7 @@
             android:textColor="@color/white"
             android:textStyle="bold"
             android:text="Title"
+            android:maxLines="1"
             />
 
         <ImageView
