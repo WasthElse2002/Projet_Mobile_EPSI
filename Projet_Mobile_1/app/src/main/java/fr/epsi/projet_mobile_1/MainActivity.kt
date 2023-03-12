@@ -19,8 +19,8 @@ class MainActivity : BaseActivity() {
 
         val buttonInfo=findViewById<Button>(R.id.buttonInfo)
         buttonInfo.setOnClickListener(View.OnClickListener {
-            //val newIntent = Intent(application, StudentsActivity::class.java)
-            //startActivity(newIntent)
+            val newIntent = Intent(application, StudentsActivity::class.java)
+            startActivity(newIntent)
         })
 
         val buttonProducts=findViewById<Button>(R.id.buttonProducts)
