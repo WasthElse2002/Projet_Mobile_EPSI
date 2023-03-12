@@ -12,6 +12,20 @@
         android:theme="@style/Theme.Projet_Mobile_1.NoActionBar"
         tools:targetApi="31">
         <activity
+            android:name=".StudentsDetails"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".StudentsActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ProductsActivity"
             android:exported="false">
             <meta-data
